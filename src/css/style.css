@@ -1,8 +1,17 @@
+#hero {
+  background: url("/assets/bg.jpg") no-repeat;
+  background-size: cover;
+  background-position: 0 60%; }
+
 body {
-  background-color: #1d1e1f; }
+  background-color: #1d1e1f;
+  color: #fff; }
 
 #logo {
-  color: cyan; }
+  color: #ba0000; }
+
+.nav-link {
+  color: #ba0000; }
 
 .navbar {
   width: 100%;
