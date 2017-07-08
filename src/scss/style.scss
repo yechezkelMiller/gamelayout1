@@ -4,12 +4,12 @@
   background-size: cover;
   background-position: 0 60%;
 }
-body {
+body{
   background-color: #1d1e1f;
   color: #fff;
 }
 
-#logo {
+#logo{
   color:#ba0000;
 }
 
@@ -17,32 +17,40 @@ body {
   color: #ba0000;
 }
 
-.navbar {
+.navbar{
   width: 100%;
   background: none !important;
-  @media(max-width: 34em) {
+  @media(max-width: 34em){
     background: black !important;
   }
-  .navbar-toggler {
+  .navbar-toggler{
     cursor: pointer;
     outline: 0;
   }
-  .nav-link {
+  .nav-link{
     text-transform: uppercase;
     font-weight: bold;
   }
   .nav-item {
     padding:0 1rem;
-    @media(max-width: 34em) {
+    @media(max-width: 34em){
       padding: 0;
     }
     .nav-link{
-      @media(max-width: 34em) {
+      @media(max-width: 34em){
         font-weight: normal;
         color: #fff !important;
       }
     }
   }
+
+}
+h1{
+  font-weight: bold;
+  font-size: 3.5em;
+}
+.hero-img{
+  width: 80%;
 }
 
 
