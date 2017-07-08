@@ -34,3 +34,10 @@ body {
       .navbar .nav-item .nav-link {
         font-weight: normal;
         color: #fff !important; } }
+
+h1 {
+  font-weight: bold;
+  font-size: 3.5em; }
+
+.hero-img {
+  width: 80%; }
