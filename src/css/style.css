@@ -41,3 +41,7 @@ h1 {
 
 .hero-img {
   width: 80%; }
+
+.feature-wrapper {
+  background-color: #17FFC4;
+  color: #000; }
